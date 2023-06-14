@@ -20,6 +20,7 @@ Antes de tudo, você precisa ter certeza de que baixou todas as dependências an
 3) Em seguida, você pode executar o comando `npm start` no terminal na pasta raiz do projeto, para iniciar o servidor back-end.
 4) Depois entre na documentação da API é só acessar em seu navegador o endereço http://localhost:3000/livros
 5) Em seguida na pasta raiz do front-end execute o `npm run dev`, para iniciar o projeto no servidor front-end
+6) Servidor para rodar Front-End http://localhost:5173
 
 ---------
 

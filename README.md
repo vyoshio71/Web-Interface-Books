@@ -24,4 +24,4 @@ Antes de tudo, você precisa ter certeza de que baixou todas as dependências an
 ---------
 
 ## request.rest:
-1)Arquivo request.rest serve para testar as aplicações CRUD do back-end
+1) Arquivo request.rest serve para testar as aplicações CRUD do back-end
